@@ -2,5 +2,6 @@ fastapi==0.116.1
 fastapi-cli==0.0.8
 fastapi-cloud-cli==0.1.5
 opentelemetry-instrumentation-fastapi==0.57b0
-torch==2.8.0+cu126
-torchvision==0.23.0+cu126
+torch==2.4.1
+
+
